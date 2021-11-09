@@ -1,5 +1,5 @@
 {
-  "name": "spatialite",
+  "name": "spatialite-seraph",
   "description": "SpatiaLite for node",
   "version": "0.1.0",
   "homepage": "http://github.com/seraph144/node-spatialite",
