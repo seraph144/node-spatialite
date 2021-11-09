@@ -3,11 +3,7 @@
   "description": "SpatiaLite for node",
   "version": "0.1.0",
   "homepage": "http://github.com/seraph144/node-spatialite",
-  "author": {
-    "name": "Mike Mahoney",
-    "url": "http://github.com/seraph144",
-    "email": "seraph144@hotmail.com"
-  },
+  "author": "Mike Mahoney <seraph144@hotmail.com> (http://github.com/seraph144)",
   "contributors": [
     "Zac McCormick <zac.mccormick@gmail.com>",
     "Mike Mahoney <seraph144@hotmail.com>"
@@ -29,6 +25,20 @@
   "engines": {
     "node": ">= 0.6.13"
   },
-  "licenses": [{ "type": "BSD" }],
-  "main": "./lib/spatialite"
+  "licenses": [
+    {
+      "type": "BSD"
+    }
+  ],
+  "main": "./lib/spatialite",
+  "bugs": {
+    "url": "https://github.com/seraph144/node-spatialite/issues"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "license": "ISC"
 }
