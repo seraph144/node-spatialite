@@ -2,18 +2,19 @@
   "name": "spatialite",
   "description": "SpatiaLite for node",
   "version": "0.1.0",
-  "homepage": "http://github.com/zhm/node-spatialite",
+  "homepage": "http://github.com/seraph144/node-spatialite",
   "author": {
-    "name": "Zac McCormick",
-    "url": "http://github.com/zhm",
-    "email": "zac.mccormick@gmail.com"
+    "name": "Mike Mahoney",
+    "url": "http://github.com/seraph144",
+    "email": "seraph144@hotmail.com"
   },
   "contributors": [
-    "Zac McCormick <zac.mccormick@gmail.com>"
+    "Zac McCormick <zac.mccormick@gmail.com>",
+    "Mike Mahoney <seraph144@hotmail.com>"
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/zhm/node-spatialite.git"
+    "url": "git://github.com/seraph144/node-spatialite.git"
   },
   "dependencies": {
     "sqlite3": "*"
